@@ -37,7 +37,7 @@ Implement a responsive web UI following the specifications below:
 - If the window resizes, the list width must resize as well maintaining the side paddings between the container;
     - The list should not get larger than 800px in width and it must remain centered horizontally.
 - Text of the UI components must be written in Korean;
-- Run the application in a remote server (Using any service you like, e.g. AWS EC2, Lightsail, etc.) and make it accessable remotely via public IP address or DNS. It doesn’t have to be running on 80 port.
+- Run the application in a remote server (Using any service you like, e.g. AWS EC2, Lightsail, etc.) and make it accessible remotely via public IP address or DNS. It doesn’t have to be running on 80 port.
 ## Design
 
 - The application design is available on Figma;

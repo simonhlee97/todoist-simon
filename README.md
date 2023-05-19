@@ -1,3 +1,7 @@
+## UPDATE STATUS of Coding Test:
+- Used FontAwesome icons
+- Deployed Frontend to Netlify - [site link](https://legendary-cupcake-a9dc83.netlify.app/)
+- Will work on Backend, database Friday and Saturday morning (but may not finish)
 
 # Todoist Code Test
 
